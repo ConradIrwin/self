@@ -7,7 +7,7 @@ Installation
 If you're using [pry](https://pryrepl.org), `gem install pry-self` and pry will
 automatically require thse `self` library on startup.
 
-If you're not using, `gem install self`.
+If you're not using pry, `gem install self`.
 
 If you're using Bundler add it to the development section of your Gemfile:
 
